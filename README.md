@@ -28,10 +28,10 @@ The following animations show the [web application's](https://agh911.github.io/D
 
 * [Deployed Application](https://agh911.github.io/Developer_PortfolioAG/)
 
+
 ## Credits
 
 * [Hero image](https://unsplash.com/photos/m_HRfLhgABo).
-
 
 
 ## License
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ---
 
-© 2022
+© 2022 AG
